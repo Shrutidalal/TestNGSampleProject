@@ -34,6 +34,10 @@ public class testString {
         return mainUrlString;
     }
 
+    public void TestMethod1(){
+        System.out.println("This is test change");
+    }
+
     public static void main(String[] args){
 
         String TestUrl = mainurl();
