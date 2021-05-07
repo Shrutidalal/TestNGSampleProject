@@ -9,5 +9,11 @@ public class testClass1 {
 
 
     }
+
+    public static void testMethod1(){
+        System.out.println("Sample method2");
+        System.out.println("This is sample Code2");
+
+    }
 }
 
